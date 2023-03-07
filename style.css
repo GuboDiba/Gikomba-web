@@ -1,0 +1,96 @@
+.body{
+    background-color: rgb(249, 233, 213);
+}
+
+.home{
+    display: flex;
+    list-style: none;
+    background-color: rgb(240, 230, 230);
+    padding: 1%;
+}
+.cate{
+    margin-left: 3%;
+    margin-right: 8%;
+}
+.shop{
+    padding: 8%;
+    border-radius: 9%;
+}
+#clothe{
+    width: 200%;
+    height: 120%;
+    margin-left: 50%;
+}
+.cloth{
+    display: flex;
+    background-color: rgb(232, 166, 43);
+    padding: 10%;
+    
+}
+.best{
+    margin-left: 40%;
+    margin-top: 20%;
+    color: white;
+}
+#tops{
+    text-align: center;
+    margin-top: 8%;
+    margin-bottom: 4%;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.view{
+    margin-left: 50%;
+    margin-top: 4%;
+    padding: 1.5%;
+    background-color: orange;
+    border-radius: 8%;
+}
+#dress{
+    text-align: center;
+    margin-top: 8%;
+    margin-bottom: 4%;
+}
+.dresses{
+    display: flex;
+    justify-content: space-between;
+
+   
+}
+.full{
+    margin-left: 50%;
+    margin-top: 4%;
+    padding: 1.5%;
+    background-color: orange;
+    border-radius: 8%;
+}
+
+.bottom{
+    display: flex;
+    padding: 5% 10%;
+    justify-content: space-between;
+    background-color: #002d3d;
+    color: rgb(243, 239, 239);
+    margin-top: 5%;
+    
+    
+    
+    }
+    .list1{
+        list-style: none;
+    }
+    .list2{
+        list-style: none;
+    
+    }
+    .list3{
+        list-style: none;
+    }
+
+    .list4{
+        list-style: none;
+    }
+    
